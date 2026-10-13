@@ -20,4 +20,4 @@ I like data work where checking the numbers changes the answer.
 | [Remote Working & Mental Health](https://github.com/evelynlieu1/remote-working-and-mental-health) | Group project (DATA1002): cleaned a UK survey extract and ran a one-way ANOVA across four work-from-home groups (n = 6,271). No significant difference in distress (p = 0.24). |
 | [Sentiment Lens](https://github.com/evelynlieu1/sentiment-lens) | Reddit sentiment and emotion dashboard using pre-trained RoBERTa models, run locally (Next.js). |
 
-[LinkedIn](https://www.linkedin.com/in/evelyn-lieu-9a14b329a/) · evelynlieu1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/evlmth) · evelynlieu1@gmail.com
