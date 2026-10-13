@@ -16,6 +16,6 @@ I like data work where checking the numbers changes the answer.
 | [GP Clinic Site Selection, Sydney](https://github.com/evelynlieu1/nuvo-health-suburb-selection-project) | Scored 680 suburbs; found the first ranking was wrong (7 of the top 10 had no data), rebuilt it and stress-tested it 400 times |
 | [Sentiment Lens](https://github.com/evelynlieu1/sentimen-analytics-) | Reddit sentiment and emotion dashboard using pre-trained RoBERTa models, run locally (Next.js) |
 | [Remote Working & Mental Health](https://github.com/evelynlieu1/remote-working-and-mental-health) | Survey cleaning and a one-way ANOVA across four work-from-home groups (n = 6,271) |
-| [Telstra Capital Structure](https://evelynlieu1.github.io/telstra-capital-structure/) | Corporate finance write-up comparing Telstra's leverage with TPG, Optus and Aussie Broadband, FY19–FY25 |
+| [Telstra Capital Structure](https://evelynlieu1.github.io/telstra-capital-structure/) | Corporate finance write-up comparing Telstra's leverage with TPG, Optus and Aussie Broadband, FY19-FY25 |
 
 [LinkedIn](https://www.linkedin.com/in/evelyn-lieu-9a14b329a/) · evelynlieu1@gmail.com
